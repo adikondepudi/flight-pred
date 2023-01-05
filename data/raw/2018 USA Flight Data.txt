@@ -1,0 +1,2 @@
+Flight data was retrieved from Kaggle dataset containing all airline flight delay and cancellation data from 2009-2018. The year 2018 was used as it was the latest. 
+https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018

@@ -1,0 +1,1 @@
+This folder contains multiple CSV files larger than 25 mb hence they are not on the github. However, the data was formatted in Excel to match the weather data times to the flight data times. The code and report can be used to determine what was done to the data in order to perform analysis on it. 
